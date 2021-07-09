@@ -32,10 +32,13 @@ function App() {
                 Ingrese un correo electronico
               </Form.Text>
             </Form.Group>
+            <Form.Group>
+              <Button variant="primary" type="submit">E n v i a r</Button>
+            </Form.Group>
           </Form>
         </Container>
         
-        <Button>Boton de enviar</Button>
+       
        
       </header>
     </div>
